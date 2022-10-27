@@ -1,3 +1,3 @@
 # Iris-Recognition-Using-PCA
 
-Iris Recognition using Principal Component Analysis 
+Iris Recognition Model using Principal Component Analysis 
